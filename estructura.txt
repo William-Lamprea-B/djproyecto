@@ -1,0 +1,20 @@
+proyecto_empleado
+
+   registro_empleado (app carpeta)
+      migraciones (incluye archivos relacionados con migraciones)
+
+      plantillas
+        registrar_empleado
+        ---base.html
+        --formulario_empleado.html
+        --lista_empleado.html
+    
+     --models.py
+     --form.py
+     --urls.py
+     --views.py
+     
+     proyecto_empleado (proyecto carpeta)
+
+     --setting.py
+     --urls.py
